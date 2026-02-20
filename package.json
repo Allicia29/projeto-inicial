@@ -1,0 +1,20 @@
+{
+  "name": "joguinho",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Allicia29/joguinho#readme",
+  "bugs": {
+    "url": "https://github.com/Allicia29/joguinho/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Allicia29/joguinho.git"
+  },
+  "license": "ISC",
+  "author": "allicia",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
